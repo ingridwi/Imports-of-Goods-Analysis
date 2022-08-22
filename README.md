@@ -1,4 +1,4 @@
-# Imports-of-goods-Analysis
+# Imports of Goods Analysis
 
 China is U.S.’s biggest trade partner, and a large share of consumer goods sold in the U.S. are still manufactured in China. Additionally, the consumption of the average American is a powerful force that can shape many financial dynamics. Using the three time series: 
 1. U.S. Imports of Goods by Customs Basis from China: Monthly, non-seasonally-adjusted
